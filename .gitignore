@@ -12,8 +12,7 @@ node_modules
 .atom/
 
 # html tutorial output
-inst/tutorials/*/*.html
-inst/tutorials/*/*.sqlite
+*.html
 
 # deployment output
 rsconnect/
